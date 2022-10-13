@@ -1,0 +1,37 @@
+.container{
+    border-radius:50px; 
+    border-width: thin; 
+    border-color:black; 
+    width: 35%; 
+    padding: 15px; 
+    border-style:solid;
+}
+
+.search{
+    background-color:rgb(128,128,128);
+    width: 70%; 
+    height:100%; 
+    border:none;
+}
+
+.LBody{
+    margin-top: 160px;
+}
+
+.headerUL{
+    list-style-type: none;
+    
+}
+
+.headerLI{
+    float:left;
+}
+
+.footerUL{
+    list-style-type: none;
+    
+}
+
+.footerLI{
+    float:right;
+}
